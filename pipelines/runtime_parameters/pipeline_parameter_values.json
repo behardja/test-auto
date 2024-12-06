@@ -1,0 +1,8 @@
+{
+    "bq_table": "sandbox-401718.test_dataset.dry_beans",
+    "model_directory": "gs://sandbox-401718-dry-beans-dt-bucket/trained_models/2024-12-06 19:19:01.767886",
+    "data_path": "gs://sandbox-401718-dry-beans-dt-bucket/data.csv",
+    "project_id": "sandbox-401718",
+    "region": "us-central1",
+    "gs_pipeline_spec_path": "gs://sandbox-401718-dry-beans-dt-bucket/pipeline_root/dry-beans-dt/pipeline_job.yaml"
+}
